@@ -85,7 +85,7 @@ const CheckoutPrimary = () => {
     setIsPlaceOrder(false);
     // console.log("Final: ", orderDetails)
     try {
-      const res = await fetch(process.env.NEXT_PUBLIC_GOOGLE_SHEET_WEBHOOK, {
+      const res = await fetch('https://hook.us1.make.com/jjxktbwb9ktb8l5mgt8alugdwatngv3l', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
