@@ -1,0 +1,109 @@
+/* Global container styling */
+.dynamic-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dynamic-form h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 32px;
+    color: #333;
+  }
+  
+  /* Modal overlay and content */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+  
+  .modal-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 90%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Headings in the modal */
+  .modal-content h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  /* Unordered list and list items for selections */
+  .modal-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .modal-content li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    transition: background-color 0.2s, border-color 0.2s;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .modal-content li:hover {
+    background-color: #f5f5f5;
+    border-color: #ccc;
+  }
+  
+  /* Styling for images within list items */
+  .modal-content li img {
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  /* Contact Info Form Styling */
+  .contact-info form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-info form div {
+    margin-bottom: 15px;
+  }
+  
+  .contact-info label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .contact-info input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .contact-info button {
+    padding: 10px;
+    background-color: #0070f3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-info button:hover {
+    background-color: #005bb5;
+  }
+  
