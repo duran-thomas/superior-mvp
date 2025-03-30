@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "title": "There are many variations of passages of Lorem.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "engine repairing",
+    "duration": "1500"
+  },
+  {
+    "id": 2,
+    "title": "Majority have suffered alteration in some form.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "car repair",
+    "duration": "1700"
+  },
+  {
+    "id": 3,
+    "title": "Excellece in automotive services since 1996.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "1900"
+  },
+  {
+    "id": 4,
+    "title": "There are many variations of passages of Lorem.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "2100"
+  },
+  {
+    "id": 5,
+    "title": "Majority have suffered alteration in some form.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "break repair",
+    "duration": "2400"
+  },
+  {
+    "id": 6,
+    "title": "Excellece in automotive services since 1996.",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "glass repair",
+    "duration": "2700"
+  },
+  {
+    "id": 7,
+    "title": "Engine Diagnostics",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "glass repair",
+    "duration": "1500"
+  },
+  {
+    "id": 8,
+    "title": "Vehicles Damaged",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "engine repairing",
+    "duration": "1700"
+  },
+  {
+    "id": 9,
+    "title": "Air Conditioning Evac",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "engine repairing",
+    "duration": "1900"
+  },
+  {
+    "id": 10,
+    "title": "Anti Lock Brake Service",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "engine repairing",
+    "duration": "2100"
+  },
+  {
+    "id": 11,
+    "title": "Computer Diagnostics",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "engine repairing",
+    "duration": "1500"
+  },
+  {
+    "id": 12,
+    "title": "Performance Upgrades",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "car repair",
+    "duration": "1900"
+  },
+  {
+    "id": 13,
+    "title": "Car Wash & Cleaning",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "car repair",
+    "duration": "2100"
+  },
+  {
+    "id": 14,
+    "title": "Choose your Repairs",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "car repair",
+    "duration": "1500"
+  },
+  {
+    "id": 15,
+    "title": "Free Consultancy",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "1700"
+  },
+  {
+    "id": 16,
+    "title": "Emergency Time",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "1900"
+  },
+  {
+    "id": 17,
+    "title": "Performance Upgrades",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "2100"
+  },
+  {
+    "id": 18,
+    "title": "Anti Lock Break",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect.",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "1500"
+  },
+  {
+    "id": 19,
+    "title": "Crash Car Repair",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect",
+    "detailsImg": null,
+    "img": null,
+    "category": "filters repair",
+    "duration": "1700"
+  },
+  {
+    "id": 20,
+    "title": "MARKET RESEARCH",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "1900"
+  },
+  {
+    "id": 21,
+    "title": "Body Color",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "2100"
+  },
+  {
+    "id": 22,
+    "title": "Glass Change",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "2100"
+  },
+  {
+    "id": 23,
+    "title": "Air Condition Repair",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "2100"
+  },
+  {
+    "id": 24,
+    "title": "Tires Repair",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "tire repair",
+    "duration": "2100"
+  },
+  {
+    "id": 25,
+    "title": "Pure Diagnostic",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "break repair",
+    "duration": "2100"
+  },
+  {
+    "id": 26,
+    "title": "Engine Lock",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit amet, consect icing elit, sed do eiusmod tempor",
+    "detailsImg": null,
+    "img": null,
+    "category": "break repair",
+    "duration": "2100"
+  },
+  {
+    "id": 27,
+    "title": "All Kind Brand",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "detailsImg": null,
+    "img": null,
+    "category": "break repair",
+    "duration": "2100"
+  },
+  {
+    "id": 28,
+    "title": "Brake Fluid Exchange",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "detailsImg": null,
+    "img": null,
+    "category": "break repair",
+    "duration": "2100"
+  },
+  {
+    "id": 29,
+    "title": "Maintenance Package",
+    "services": [
+      "Tire puncher with cleaning",
+      "Tire Customization",
+      "Tire check & fixing",
+      "Tire change & color"
+    ],
+    "desc": "Lorem ipsum dolor sit ame it, consectetur adipisicing elit, sed do eiusmod te mp or incididunt ut labore.",
+    "detailsImg": null,
+    "img": null,
+    "category": "glass repair",
+    "duration": "2100"
+  }
+]
