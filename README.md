@@ -1,2 +1,2 @@
 # superior-mvp
-Mvp for superior's version og Go Mechanic
+Mvp for superior's version of Go Mechanic
