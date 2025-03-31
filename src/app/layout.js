@@ -1,4 +1,4 @@
-import { Open_Sans, Rajdhani } from "next/font/google";
+{/* import { Open_Sans, Rajdhani } from "next/font/google";
 import "@/assets/css/font-icons.css";
 import "@/assets/css/plugins.css";
 import "./globals.css";
@@ -43,4 +43,13 @@ export default function RootLayout({ children }) {
       </body>
     </html>
   );
+} */}
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
 }
+
