@@ -1,8 +1,12 @@
+import IndexMain from "@/components/layout/main/IndexMain";
+import PageWrapper from "@/components/shared/wrappers/PageWrapper";
+
 export default function Home() {
-    return (
-        <div>
-            <h1>Welcome to Superior Servicing</h1>
-            <p>Your one-stop solution for all servicing needs.</p>
-        </div>
-    );
+  return (
+    <PageWrapper>
+      <IndexMain />
+    </PageWrapper>
+  );
 }
+
+
