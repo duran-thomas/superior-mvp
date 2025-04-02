@@ -117,7 +117,7 @@ const About2 = () => {
                   <p>
                     Call us 24/7. We can answer for{" "}
                     <Link
-                      href="/contact"
+                      href="#"
                       className="ltn__secondary-color text-decoration"
                     >
                       <strong>all your questions</strong>

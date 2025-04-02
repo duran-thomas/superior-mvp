@@ -21,13 +21,13 @@ const HeaderTop = () => {
             <div className="ltn__top-bar-menu">
               <ul>
                 <li>
-                  <Link href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you">
+                  <Link href="#">
                     <i className="icon-mail"></i> info@webmail.com
                   </Link>
                 </li>{" "}
                 <li>
-                  <Link href="/locations">
-                    <i className="icon-placeholder"></i> 15/A, Nest Tower, NYC
+                  <Link href="#">
+                    <i className="icon-placeholder"></i> Kingston, Jamaica
                   </Link>
                 </li>
               </ul>
@@ -47,22 +47,7 @@ const HeaderTop = () => {
                           </Link>
                           <ul>
                             <li>
-                              <Link href="#">Arabic</Link>
-                            </li>
-                            <li>
-                              <Link href="#">Bengali</Link>
-                            </li>
-                            <li>
-                              <Link href="#">Chinese</Link>
-                            </li>
-                            <li>
-                              <Link href="#">English</Link>
-                            </li>
-                            <li>
-                              <Link href="#">French</Link>
-                            </li>
-                            <li>
-                              <Link href="#">Hindi</Link>
+                              <Link href="#">Spanish</Link>
                             </li>
                           </ul>
                         </li>
