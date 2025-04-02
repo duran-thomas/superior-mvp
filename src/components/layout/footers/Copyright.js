@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import logoImage from "@/assets/img/logo.png";
 import logoImage2 from "@/assets/img/logo-2.png";
+import superiorLogo from '../../../../public/img/superior-logo.png'
 import { useFooterContex } from "@/providers/FooterContext";
 
 const Copyright = () => {
@@ -16,7 +17,7 @@ const Copyright = () => {
               <div className="site-logo">
                 <Link href="/">
                   <Image
-                    src={footerBg === "dark" ? logoImage2 : logoImage}
+                    src={footerBg === "dark" ? superiorLogo : superiorLogo}
                     alt="Logo"
                   />
                 </Link>
@@ -25,7 +26,7 @@ const Copyright = () => {
                 <div className="get-support-info">
                   <h6>Copyright & Design By</h6>
                   <h4>
-                    Company - <span className="current-year"></span>
+                    Renegade Digital Agency - <span className="current-year"></span>
                   </h4>
                 </div>
               </div>

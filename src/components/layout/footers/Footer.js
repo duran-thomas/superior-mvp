@@ -48,7 +48,7 @@ const Footer = () => {
         >
           <div className={footerStyle === 3 ? "container-fluid" : "container"}>
             <div className="row">
-              {footerStyle === 3 ? (
+              {/* {footerStyle === 3 ? (
                 <>
                   <FooterAbout2 />
                   <FooterCompany />
@@ -67,7 +67,7 @@ const Footer = () => {
                   <FooterServices />
                   <FooterNewsFeeds />
                 </>
-              )}
+              )} */}
             </div>
           </div>
         </div>
